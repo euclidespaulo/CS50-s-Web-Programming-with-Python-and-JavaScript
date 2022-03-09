@@ -1,3 +1,35 @@
 @charset "UTF-8";
 /* CSS Document */
 
+*{
+	
+}
+
+body {
+  background:#2ca25f;
+}
+
+.input-group{
+ height: 15px;
+ width:600px ;
+ margin: auto;
+ margin-top: 20%;
+
+ 
+}
+.input-group-text{
+border-radius: 65px;
+background:#f0f0f0;
+
+}
+
+.form-control{
+background:#f0f0f0;
+	
+	
+}
+
+
+
+
+
